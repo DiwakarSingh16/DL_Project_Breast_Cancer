@@ -75,7 +75,7 @@ Dataset → Preprocessing → Neural Network Training → Prediction (Benign / M
 ---
 
 ## 📈 Results
-
+![Training and validating](parameter.png)
 The neural network achieves **high accuracy** on the test dataset.  
 Training performance shows:
 - Increasing accuracy  
