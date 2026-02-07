@@ -38,7 +38,7 @@ Dataset → Preprocessing → Neural Network Training → Prediction (Benign / M
 ---
 
 ## 🧠 Deep Learning Model
-
+![Neural Network](neural_networks.png)
 - 🔹 **Model Type:** Sequential Neural Network  
 - 🔹 **Input Layer:** 30 neurons  
 - 🔹 **Hidden Layers:**
